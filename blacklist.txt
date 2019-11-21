@@ -17,6 +17,7 @@
 *://*.formysql.com/*
 *://*.goldwavechina.cn/*
 *://*.guitarpro.cc/*
+*://*.helplib.com/*
 *://*.hkcleanmymac.com/*
 *://*.huishenghuiying.com.cn/*
 *://*.imindmap.cc/*
@@ -38,12 +39,19 @@
 *://*.photozoomchina.com/*
 *://*.shendugho.com/*
 *://*.vegaschina.cn/*
+*://*.voidcn.com/*
 *://*.xshellcn.com/*
 *://*.yitianxinda.cn/*
 *://*.yitianxinda.com/*
 *://*.yuanchengxiezuo.com/*
 *://*.zbrushcn.com/*
 *://*.zuoqudashi.net/*
+*://codeday.me/*
+*://feishuang406.com/*
+*://gopherlivery.com/*
 *://kknews.cc/*
+*://landcareweb.com/*
+*://mtpdk.com/*
 *://read01.com/*
 *://www.kafan.cn/*
+*://xiangnan859.com/*
