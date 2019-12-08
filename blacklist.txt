@@ -1,8 +1,13 @@
+*://*.0930zz.com/*
+*://*.52zhanzhang.com.cn/*
+*://*.91zp5a.cn/*
 *://*.abbyychina.com/*
+*://*.aspzz.cn/*
 *://*.bartender.cc/*
 *://*.betterzipcn.com/*
 *://*.beyondcompare.cc/*
 *://*.bingdianhuanyuan.cn/*
+*://*.ccba.org.cn/*
 *://*.chemdraw.com.cn/*
 *://*.cjmakeding.com/*
 *://*.codesoftchina.com/*
@@ -13,6 +18,7 @@
 *://*.earmasterchina.cn/*
 *://*.easyrecoverychina.com/*
 *://*.ediuschina.com/*
+*://*.epochtimes.*
 *://*.flstudiochina.com/*
 *://*.formysql.com/*
 *://*.goldwavechina.cn/*
@@ -22,6 +28,7 @@
 *://*.huishenghuiying.com.cn/*
 *://*.imindmap.cc/*
 *://*.jihehuaban.com.cn/*
+*://*.jishuwen.com/*
 *://*.keyshot.cc/*
 *://*.luping.net.cn/*
 *://*.mairuan.cn/*
@@ -47,6 +54,7 @@
 *://*.zbrushcn.com/*
 *://*.zuoqudashi.net/*
 *://codeday.me/*
+*://eegrainge.com/*
 *://feishuang406.com/*
 *://gopherlivery.com/*
 *://kknews.cc/*
@@ -55,3 +63,4 @@
 *://read01.com/*
 *://www.kafan.cn/*
 *://xiangnan859.com/*
+*://youlearnyouearn.com/*
