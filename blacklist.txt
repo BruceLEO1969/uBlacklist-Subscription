@@ -14,6 +14,7 @@
 *://*.coreldrawchina.com/*
 *://*.crossoverchina.com/*
 *://*.csdn.net/*
+*://*.zhihu.com/*
 *://*.dongmansoft.com/*
 *://*.earmasterchina.cn/*
 *://*.easyrecoverychina.com/*
