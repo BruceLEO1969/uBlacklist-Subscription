@@ -15,7 +15,7 @@ uBlacklist 是一个阻止特定网站出现在 Google 搜索结果中的浏览�
 在 uBlacklist 的设置选项（通常你可以通过右键 uBlacklist 的图标）中找到「订阅」并添加链接地址即可。
 
 ```
-https://raw.githubusercontent.com/ConnersHua/uBlacklist-Subscription/master/blacklist.txt
+https://raw.githubusercontent.com/BruceLEO1969/uBlacklist-Subscription/master/blacklist.txt
 ```
 
 ## 许可
