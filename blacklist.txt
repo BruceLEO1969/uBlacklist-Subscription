@@ -17,6 +17,7 @@
 *://*.crossoverchina.com/*
 *://*.csdn.net/*
 *://*.zhihu.com/*
+*://*.baidu.com/*
 *://*.dongmansoft.com/*
 *://*.earmasterchina.cn/*
 *://*.easyrecoverychina.com/*
