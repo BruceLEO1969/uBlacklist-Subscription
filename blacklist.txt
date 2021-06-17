@@ -1,5 +1,5 @@
-# *://*cn*/*
-# *://*.cn/*
+/m\..*\.(net|org|cn|com)/
+/.*\.weibo.*/
 *://*.0930zz.com/*
 *://*.52zhanzhang.com.cn/*
 *://*.91zp5a.cn/*
